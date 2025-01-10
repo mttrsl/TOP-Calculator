@@ -4,7 +4,11 @@ body {
   align-items: center;
   flex-direction: column;
   width: 100vw;
-  height: 100vh;
+  height: 70vh;
+}
+
+h1 {
+  padding: 10px;
 }
 
 .calculator {
@@ -85,7 +89,7 @@ body {
   flex-direction: column;
   justify-content: flex-end;
   align-items: flex-end;
-  padding-right: 5px;
+  padding-right: 10px;
 }
 
 .previous {
